@@ -20,3 +20,12 @@ If you want to contribute to this project and make it better, your help is very 
 
 ```bash
 git clone https://github.com/SATYAM-PRATIBHAN/digital-clock.git
+```
+2. Open the project directory:
+
+```bash
+cd digital-clock
+```
+3. Open index.html in your web browser.
+   
+4. Now you will be able to see the live time updating every second.
