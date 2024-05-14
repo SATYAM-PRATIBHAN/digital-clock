@@ -6,7 +6,7 @@ This project is a simple digital clock implemented in [HTML/CSS/JAVASCRIPT]. It 
 
 - Real-time display of hours, minutes, and seconds.
 - Automatic update every second to reflect the current time.
-- 
+
 ## Contributing
 
 If you want to contribute to this project and make it better, your help is very welcome. Create an issue or pull request, and let's discuss how we can improve this digital clock together!
